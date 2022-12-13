@@ -1,3 +1,8 @@
+################################################
+# © 2022 Evan Kimmerrlein and Dawson Whipple
+#            All Rights Reserved
+################################################
+
 import tweepy
 import pandas as pd
 import numpy as np

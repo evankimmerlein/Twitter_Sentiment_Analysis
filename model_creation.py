@@ -1,3 +1,7 @@
+##########################
+# © 2022 Evan Kimmerrlein
+#   All Rights Reserved
+##########################
 # Dataset intended to be used with this code can be found at https://www.kaggle.com/datasets/kazanova/sentiment140https://www.kaggle.com/datasets/kazanova/sentiment140
 # IMPORTS
 
